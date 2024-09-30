@@ -74,7 +74,7 @@ const Login = () => {
 
     return (
         <section className="w-full flex flex-col items-center justify-center p-4">
-            <div className="w-full md:w-1/3 text-gray-800 space-y-8 bg-white px-10 py-8 rounded-lg shadow md:mt-12">
+            <div className="w-full lg:w-1/2 text-gray-800 space-y-8 bg-white px-10 py-8 rounded-lg shadow md:mt-12">
                 <div className="text-center">
                     <div className="mt-5 space-y-2">
                         <h3 className="text-gray-800 text-2xl font-bold sm:text-3xl">Acceda a su cuenta</h3>
