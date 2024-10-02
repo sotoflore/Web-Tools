@@ -5,6 +5,19 @@ link Web App : https://web-tools-resources.vercel.app/
 
 ![image-app](https://github.com/sotoflore/web-tools/blob/main/public/website-webtools.png)
 
+# Tecnologias Usadas
+## Backend
+- Firebase
+- react-firebase-hooks
+
+## Frontend
+- React
+- TypeScript
+- TailwindCSS
+- Keep React (Componentes)
+- Lucide React (Iconos)
+- React Hot Toast(Notificaciones)
+- React Router Dom (Rutas)
 
 ## Funcionaliades
 ### Login
